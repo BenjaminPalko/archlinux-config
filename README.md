@@ -43,6 +43,8 @@ Install...
 Include = /etc/pacman.d/mirrorlist
 ```
 
+>Below here is out of date!
+
 ### TODO
 
 - [ ] zsh Configuration
